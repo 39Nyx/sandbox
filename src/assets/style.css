@@ -1,0 +1,17 @@
+body, html, #app {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.sandbox {
+    width: 100%;
+    height: calc(100% - 2px);
+    border: 0;
+    display: block;
+}
